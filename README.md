@@ -9,3 +9,6 @@ GitHub is a web-based Git repository hosting service, which offers all of the di
 
 ## List 3 other GitHub alternatives:
 GitLab, Bitbucket, and Gitea.
+
+## Explain the difference between git fetch and git pull:
+Git fetch and pull is that git pull copies changes from a remote repository directly into your working directory, while git fetch does not. The git fetch command only copies changes into your local Git repo. The git pull command does both. In simple terms, git pull does a git fetch first, and then a git merge.
